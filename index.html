@@ -34,29 +34,46 @@
 
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/rgordon/laser-cutter-101">View on GitHub</a>
 
-          <h1 id="project_title">Laser-cutter-101</h1>
-          <h2 id="project_tagline"></h2>
+  	<div class="reveal">
+		<div class="slides">
 
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/rgordon/laser-cutter-101/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/rgordon/laser-cutter-101/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
+			<section>
+			  <div class="qrcode" id="qrcode-talk"/>
+			  <p><a href="http://rgordon.github.io/laser-cutter-101" target="_blank"
+				id="talk">http://rgordon.github.io/laser-cutter-101</a></p>
+			</section>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a id="welcome-to-laser-cutter-101" class="anchor" href="#welcome-to-laser-cutter-101" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to Laser Cutter 101</h3>
-      </section>
-    </div>
+			<section id="intro"
+				 data-markdown="markdown/intro.md"
+				 data-separator="^\n\n\n"
+				 data-vertical="^\n\n"
+				 data-notes="^Note:" >
+			</section>
 
+			<section id="toolchain"
+				 data-markdown="markdown/toolchain.md"
+				 data-separator="^\n\n\n"
+				 data-vertical="^\n\n"
+				 data-notes="^Note:" >
+			</section>
+
+			<section id="2dgraphics"
+				 data-markdown="markdown/2dgraphics.md"
+				 data-separator="^\n\n\n"
+				 data-vertical="^\n\n"
+				 data-notes="^Note:" >
+			</section>
+
+			<section id="designprep"
+				 data-markdown="markdown/designprep.md"
+				 data-separator="^\n\n\n"
+				 data-vertical="^\n\n"
+				 data-notes="^Note:" >
+			</section>
+		</div>
+	</div>
+	
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
@@ -65,46 +82,9 @@
       </footer>
     </div>
 
-    <div class="reveal">
-      <div class="slides">
 
-	<section>
-	  <div class="qrcode" id="qrcode-talk"/>
-	  <p><a href="http://rgordon.github.io/laser-cutter-101" target="_blank"
-		id="talk">http://rgordon.github.io/laser-cutter-101</a></p>
-	</section>
-
-	<section id="intro"
-		 data-markdown="markdown/intro.md"
-		 data-separator="^\n\n\n"
-		 data-vertical="^\n\n"
-		 data-notes="^Note:" >
-	</section>
-
-	<section id="toolchain"
-		 data-markdown="markdown/toolchain.md"
-		 data-separator="^\n\n\n"
-		 data-vertical="^\n\n"
-		 data-notes="^Note:" >
-	</section>
-
-	<section id="2dgraphics"
-		 data-markdown="markdown/2dgraphics.md"
-		 data-separator="^\n\n\n"
-		 data-vertical="^\n\n"
-		 data-notes="^Note:" >
-	</section>
-
-	<section id="designprep"
-		 data-markdown="markdown/designprep.md"
-		 data-separator="^\n\n\n"
-		 data-vertical="^\n\n"
-		 data-notes="^Note:" >
-	</section>
-
-
-	 <script src="qrcodejs/qrcode.js"></script>
-		<script>
+	<script src="qrcodejs/qrcode.js"></script>
+	<script>
 /* Grab all links and iterate over them */
 var sources = document.getElementsByTagName('a');
 n = sources.length;
