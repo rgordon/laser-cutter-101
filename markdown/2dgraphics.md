@@ -9,7 +9,7 @@
 * Paths - the general case, nodes and curves
 
 
-# Properties
+##Properties
 Shapes have many properties including:
 
 * fill
@@ -20,7 +20,7 @@ Shapes have many properties including:
 * location
 
 
-# Transformations
+## Transformations
 Shapes can be transformed
 
 * scaled
