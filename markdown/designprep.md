@@ -7,7 +7,7 @@
 * transform to match desired size ● apply customization
 * assign colors to each path
 * save file as SVG on USB key
-￼
+
 
 # Key Properties
 * Fill

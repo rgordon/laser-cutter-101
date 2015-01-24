@@ -34,8 +34,3 @@ Some operations on shapes:
 
 * group
 * align 
-
-
-
-
-

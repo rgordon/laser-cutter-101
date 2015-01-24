@@ -32,5 +32,3 @@ https://inkscape.org
 * Linux
 
 
-
-

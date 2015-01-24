@@ -1,5 +1,5 @@
-#Laser Cutter 101
 Care and feeding of the laser cutter
+#Laser Cutter 101
 
 
 # Overview
@@ -9,7 +9,7 @@ Care and feeding of the laser cutter
 * Adjustments that matter to your design
 
 
-#Workflow
+# Workflow
 * create or find suitable design
 * load the design 
 * customize and validate
@@ -18,13 +18,11 @@ Care and feeding of the laser cutter
 * run job
 
 
-
-#Laser Job Settings
+# Job Settings
 * power level
 * speed
 * number of passes
 * order of passes
 * vector current
 * raster DPI
-
 
