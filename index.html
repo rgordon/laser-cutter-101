@@ -16,7 +16,7 @@
     
 		<!-- reveal.js CSS theme and local overrides -->
 	<link rel="stylesheet" href="reveal.js/css/reveal.css"/>
-	<link rel="stylesheet" href="reveal.js/css/theme/default.css" id="theme"/>
+	<link rel="stylesheet" href="reveal.js/css/theme/league.css" id="theme"/>
 	<link rel="stylesheet" href="css/reveal-override.css"/>
 	
 	<!-- For syntax highlighting -->
@@ -47,28 +47,28 @@
 			<section id="intro"
 				 data-markdown="markdown/intro.md"
 				 data-separator="^\n\n\n"
-				 data-vertical="^\n\n"
+				 data-separator-vertical="^\n\n"
 				 data-notes="^Note:" >
 			</section>
 
 			<section id="toolchain"
 				 data-markdown="markdown/toolchain.md"
 				 data-separator="^\n\n\n"
-				 data-vertical="^\n\n"
+				 data-separator-vertical="^\n\n"
 				 data-notes="^Note:" >
 			</section>
 
 			<section id="2dgraphics"
 				 data-markdown="markdown/2dgraphics.md"
 				 data-separator="^\n\n\n"
-				 data-vertical="^\n\n"
+				 data-separator-vertical="^\n\n"
 				 data-notes="^Note:" >
 			</section>
 
 			<section id="designprep"
 				 data-markdown="markdown/designprep.md"
 				 data-separator="^\n\n\n"
-				 data-vertical="^\n\n"
+				 data-separator-vertical="^\n\n"
 				 data-notes="^Note:" >
 			</section>
 		</div>
@@ -114,10 +114,10 @@ for (var i = 0; i < n; i++) {
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
-    controls: false,
+    controls: true,
     progress: false,
-    history: true,
-    center: true,
+    history: false,
+    center: false,
 
     // Parallax background image
     // parallaxBackgroundImage: 'images/oscon-logo.svg',
