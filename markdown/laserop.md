@@ -37,10 +37,10 @@ Things you do with every job
 
 
 ## Front Panel Controls
-* fast/slow/align/load/reset
+* fast/slow/~~align/load/reset~~
 * lock/unlock
 * home
-* return/test-fire 
+* return/~~test-fire~~ 
 * perimeter check
 * start/cancel
 * jog buttons
