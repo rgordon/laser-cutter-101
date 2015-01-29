@@ -1,7 +1,7 @@
 # Design Preparation
 
 
-# Workflow
+## Workflow
 * set document units and size
 * verify each path’s attributes
 * transform to match desired size 
@@ -10,14 +10,14 @@
 * save file as SVG on USB key or file
 
 
-# Key Properties
+## Key Properties
 * Fill
 * Stroke
 * Width
 * Color
 
 
-# Fill
+## Fill
 Used only for shapes to be rastered
 
 * no fill for vector shapes

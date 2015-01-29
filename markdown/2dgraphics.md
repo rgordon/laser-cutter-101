@@ -9,7 +9,7 @@
 * Paths - the general case, nodes and curves
 
 
-##Properties
+## Properties
 Shapes have many properties including:
 
 * fill
@@ -21,7 +21,7 @@ Shapes have many properties including:
 
 
 ## Transformations
-Shapes can be transformed
+apply to single or multiple shapes
 
 * scaled
 * rotated
@@ -29,8 +29,8 @@ Shapes can be transformed
 * skewed
 
 
-# Operations
-Some operations on shapes:
+## Group Operations
+apply to multiple shapes
 
-* group
+* group/ungroup
 * align 
