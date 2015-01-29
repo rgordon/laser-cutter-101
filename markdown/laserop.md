@@ -10,6 +10,16 @@
 * never leave unattended while running
 
 
+## Job Preparation
+Things you do with every job
+
+* ensure pumps and fans are working 
+* clear workarea and add material
+* focus laser manually
+* make sure laser is connected and homed
+* adjust settings to design 
+
+
 ## Startup Procedure
 * exhaust fan/vent prepared
 * water and air pumps on

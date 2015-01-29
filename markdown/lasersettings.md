@@ -14,6 +14,7 @@ Common to both modes
 
 
 ## Vector-only Settings
+
 * Assigned by color
   * order of cutting
   * number of passes
@@ -22,12 +23,14 @@ Common to both modes
 
 
 ## Raster-only Settings
+
 * threshold - filter out colors
 
 * DPI - global
 
 
 ## Color Assignment
+
 * Prepares job for cutting
 * work from the inside out
 * black for raster if combined with vector

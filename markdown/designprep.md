@@ -4,9 +4,10 @@
 # Workflow
 * set document units and size
 * verify each path’s attributes
-* transform to match desired size ● apply customization
-* assign colors to each path
-* save file as SVG on USB key
+* transform to match desired size 
+* apply customization
+* assign colors to each shape/path
+* save file as SVG on USB key or file
 
 
 # Key Properties
@@ -34,9 +35,9 @@ Used for shapes to be vectored
 # Color
 Used to assign laser settings
 
-* black,<span style="color:red">red</span>,<span style="color:green">green</span>,<span style="color:blue">blue</span>,<span style="color:magenta">magenta</span>,<span style="color:cyan">cyan</span>, <span style="color:yellow">yellow</span> 
+* <span style="color:black">black</span>,<span style="color:red">red</span>,<span style="color:green">green</span>,<span style="color:blue">blue</span>,<span style="color:magenta">magenta</span>,<span style="color:cyan">cyan</span>, <span style="color:yellow">yellow</span> 
 * black - use for raster (if any)
-* others as needed for settings
+* others as needed for different settings
 * yellow typically for bounding box if any
 
 
