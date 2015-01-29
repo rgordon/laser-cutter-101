@@ -1,4 +1,4 @@
-# Laser Cutter Settings
+# Settings
 
 
 ## Lasering Modes

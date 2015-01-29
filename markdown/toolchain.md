@@ -15,7 +15,7 @@
 
 
 ## Raster and Vector
-
+TODO: insert graphic
 
 ## 2D Design Tools
 * Inkscape

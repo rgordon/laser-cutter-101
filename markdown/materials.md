@@ -1,4 +1,4 @@
-# Laser Cutter Materials
+# Materials
 
 
 ## Material Safety

@@ -1,4 +1,4 @@
-# Laser Cutter Operations
+# Operations
 
 
 ## Safety Protocols
