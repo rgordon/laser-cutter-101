@@ -31,5 +31,3 @@ https://inkscape.org
 * Windows
 * Mac
 * Linux
-
-
