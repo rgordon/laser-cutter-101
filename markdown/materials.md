@@ -1,14 +1,14 @@
-# Materials
+# Laser Cutter Materials
 
 
 ## Material Safety
 * approved materials only
-** wood, MDF, plexiglass, natural fiber
+  * wood, MDF, plexiglass, natural fiber
 * anything else requires approval 
-** find the MSDS
+  * find the MSDS
 * banned materials include
-** vinyl - generates chlorine gas
-** ABS, polystyrene
+  * vinyl - generates chlorine gas
+  * ABS, polystyrene
 
 
 ## Material Tests

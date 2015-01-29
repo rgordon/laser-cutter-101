@@ -1,5 +1,15 @@
 #Laser Cutter Operations
 
+
+## Safety Protocols
+* big red button
+* fire extinguisher
+* work area clear
+* water pump, air pump on
+* exhaust fan ready
+* never leave unattended while running
+
+
 ## Startup Procedure
 * exhaust fan/vent prepared
 * water and air pumps on
@@ -14,15 +24,6 @@
 * remove fan from window and relock 
 * exit RetinaEngrave3D application
 * vacuum out work area at end of day
-
-
-## Safety Protocols
-* big red button
-* fire extinguisher
-* work area clear
-* water pump, air pump on
-* exhaust fan ready
-* never leave unattended while running
 
 
 ## Front Panel Controls

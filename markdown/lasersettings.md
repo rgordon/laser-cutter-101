@@ -1,4 +1,4 @@
-# Laser Settings
+# Laser Cutter Settings
 
 
 ## Lasering Modes
@@ -14,8 +14,8 @@ Common to both modes
 
 ## Vector-only Settings
 * Assigned by color
-** order of cutting
-** number of passes
+  * order of cutting
+  * number of passes
 
 * vector current - global
 
