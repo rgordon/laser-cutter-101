@@ -1,7 +1,7 @@
 # 2D Graphics Basics
 
 
-# Shapes
+## Shapes
 * Rectangles
 * Ellipses
 * Lines
