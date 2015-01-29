@@ -8,6 +8,7 @@
 
 ## Laser Settings
 Common to both modes
+
 * power
 * speed
 
