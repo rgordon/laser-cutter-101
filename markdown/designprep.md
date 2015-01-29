@@ -24,7 +24,7 @@ Used only for shapes to be rastered
 * yes fill for raster shapes
 
 
-# Stroke
+## Stroke
 Used for shapes to be vectored
 
 * width - small, 0.5 points
@@ -32,7 +32,7 @@ Used for shapes to be vectored
 * style - solid or dashed lines
 
 
-# Color
+## Color
 Used to assign laser settings
 
 * <span style="color:black">black</span>,<span style="color:red">red</span>,<span style="color:green">green</span>,<span style="color:blue">blue</span>,<span style="color:magenta">magenta</span>,<span style="color:cyan">cyan</span>, <span style="color:yellow">yellow</span> 
@@ -41,12 +41,12 @@ Used to assign laser settings
 * yellow typically for bounding box if any
 
 
-# Interface Walkthrough
+## Interface Walkthrough
 * document settings
 * pan/zoom
+* guides
 * shapes
 * selection
 * transforms
-* group/ungroup
 * alignment
-* guides
+* group/ungroup
