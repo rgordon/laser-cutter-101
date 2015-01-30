@@ -8,10 +8,11 @@
 
 
 ## Terminology
-* Raster
-* Vector
-* Point
-* SVG
+* Raster - draw pixels
+* Vector - draw lines
+* Point - typographic measure 
+  * now 1/72 inch
+* SVG - Scalable Vector Graphics
 
 
 ## Raster and Vector
@@ -23,6 +24,15 @@ TODO: insert graphic
 * CorelDraw
 * Adobe Illustrator
 * Gimp/Photoshop
+
+## 2D File Formats
+
+* Open Vector Formats
+  * SVG, PDF, PostScript (PS), EPS
+* Vendor Vector Formats
+  * AI, CDW
+* Open Raster Formats
+  * JPEG, TIFF, GIF, BMP
 
 
 ## Inkscape Installation
