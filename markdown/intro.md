@@ -26,7 +26,7 @@ Care and feeding of the laser cutter
 * cut/engrave **some** plastics
 * engrave **some** glass and stone
 * engrave anodized aluminum
-* mark metals using [TherMark](http://www.thermark.com)
+* mark metals using [Thermark](http://www.thermark.com) 
 * cut/engrave ceramics (possibly)
 
 
