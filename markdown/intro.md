@@ -4,11 +4,12 @@ Care and feeding of the laser cutter
 
 ## Overview
 * What is it and what can it do?
-* Workflow and Toolchain
+* Toolchain
+* Settings That Matter
+* Materials Selection
 * Operation of the Laser Cutter
-* Selection of Materials
+* Basics of 2D Design Tools
 * Preparation of Design Files
-* Adjustments that matter to your design
 
 
 ## What is a Laser Cutter?
