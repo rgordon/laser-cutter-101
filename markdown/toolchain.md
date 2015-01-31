@@ -40,7 +40,6 @@ Scaling gives different results
 
 
 ## Other Formats
-
 ![Image](../images/laser-cutter-toolchain.svg?raw=true)
 
 
