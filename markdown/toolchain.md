@@ -19,7 +19,7 @@ but first some
 ## Raster and Vector
 Scaling gives different results
 
-![Image](../images/raster-vs-vector.png?raw=true)
+![Image](images/raster-vs-vector.png?raw=true)
 
 
 ## 2D Design Tools
@@ -40,7 +40,7 @@ Scaling gives different results
 
 
 ## Other Formats
-![Image](../images/laser-cutter-toolchain.svg?raw=true)
+![Image](images/laser-cutter-toolchain.svg?raw=true)
 
 
 ## Inkscape Installation

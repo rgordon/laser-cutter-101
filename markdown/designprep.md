@@ -12,11 +12,11 @@
 
 
 ## Inkscape Main Window
-![Image](../images/main-window.png?raw=true)
+![Image](images/main-window.png?raw=true)
 
 
 ## Document Settings
-![Image](../images/document-properties.png?raw=true)
+![Image](images/document-properties.png?raw=true)
 
 
 ## Key Properties
@@ -34,7 +34,7 @@ Used only for shapes to be rastered
 
 
 ## Selecting Fill
-![Image](../images/no-fill.png?raw=true)
+![Image](images/no-fill.png?raw=true)
 
 
 ## Stroke
@@ -46,11 +46,11 @@ Used for shapes to be vectored
 
 
 ##  Stroke Paint
-![Image](../images/stroke-paint.png?raw=true)
+![Image](images/stroke-paint.png?raw=true)
 
 
 ##  Stroke Style
-![Image](../images/stroke-style.png?raw=true)
+![Image](images/stroke-style.png?raw=true)
 
 
 ## Color
