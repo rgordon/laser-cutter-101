@@ -17,7 +17,9 @@ but first some
 
 
 ## Raster and Vector
-TODO: insert graphic
+Scaling gives different results
+
+![Image](../images/raster-vs-vector.png?raw=true)
 
 
 ## 2D Design Tools
@@ -35,6 +37,11 @@ TODO: insert graphic
   * AI, CDW
 * Open Raster Formats
   * JPEG, TIFF, GIF, BMP
+
+
+## Other Formats
+
+![Image](../images/laser-cutter-toolchain.svg?raw=true)
 
 
 ## Inkscape Installation

@@ -3,11 +3,20 @@
 
 ## Workflow
 * set document units and size
+* load/create design
 * verify each path’s attributes
 * transform to match desired size 
 * apply customization
 * assign colors to each shape/path
 * save file as SVG on USB key or file
+
+
+## Inkscape Main Window
+![Image](../images/main-window.png?raw=true)
+
+
+## Document Settings
+![Image](../images/document-properties.png?raw=true)
 
 
 ## Key Properties
@@ -21,7 +30,11 @@
 Used only for shapes to be rastered
 
 * no fill for vector shapes
-* yes fill for raster shapes
+* maybe fill for raster shapes
+
+
+## Selecting Fill
+![Image](../images/no-fill.png?raw=true)
 
 
 ## Stroke
@@ -30,6 +43,14 @@ Used for shapes to be vectored
 * width - small, 0.5 points
 * color - explained later
 * style - solid or dashed lines
+
+
+##  Stroke Paint
+![Image](../images/stroke-paint.png?raw=true)
+
+
+##  Stroke Style
+![Image](../images/stroke-style.png?raw=true)
 
 
 ## Color
