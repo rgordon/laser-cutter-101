@@ -17,7 +17,8 @@ Things you do with every job
 * clear workarea and add material
 * focus laser manually
 * make sure laser is connected and homed
-* adjust settings to design 
+* adjust settings to design colors
+* run job
 
 
 ## Startup Procedure

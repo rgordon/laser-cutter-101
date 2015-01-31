@@ -7,17 +7,31 @@
 * Lines
 * Polygons
 * Paths - the general case, nodes and curves
+  * all shapes can be converted to paths
 
 
-## Properties
+## Shape Properties
 Shapes have many properties including:
 
-* fill
-* stroke 
-* stroke-style
+* fill - paint-mode and color
+* stroke - paint-mode and color 
+* stroke-style - width, joins, caps
+
+
+## Objects 
+objects also have 
+
 * width
-* color
+* height
+* angle
 * location
+
+
+## Text
+is a special case, with own properties
+
+* font, size
+* transformations can apply
 
 
 ## Transformations

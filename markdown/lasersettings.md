@@ -24,14 +24,13 @@ Common to both modes
 
 ## Raster-only Settings
 
-* threshold - filter out colors
-
+* threshold - filters out colors
 * DPI - global
 
 
 ## Color Assignment
 
-* Prepares job for cutting
+* Design Colors -> Laser Settings
 * work from the inside out
-* black for raster if combined with vector
+* black for raster mixed with vector
 * lighter colors for vector if combined

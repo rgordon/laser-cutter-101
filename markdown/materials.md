@@ -25,8 +25,8 @@
 ## Material Tests
 Each material and effect requires different settings.
 
-* vector mode has them built-in
+* vector mode has tests built-in
 * raster mode requires custom test 
 * Remember to focus on material 
 * Take note of power vs speed
-* limit vector current for lightweight￼
+* limit vector current if lightweight￼

@@ -7,6 +7,7 @@
 * laser cutter control
 
 
+but first some
 ## Terminology
 * Raster - draw pixels
 * Vector - draw lines
